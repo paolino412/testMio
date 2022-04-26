@@ -67,6 +67,7 @@ public class VideoMain {
 		gestionevideo.rimuoviVideo(v2);
 		gestionevideo.rimuoviVideo(v3);
 		gestionevideo.rimuoviVideo(v4);
+		gestionevideo.rimuoviVideo(v5);
 
 		
 
