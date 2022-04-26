@@ -51,7 +51,7 @@ public class VideoMain {
 		data_evento = LocalDate.of(2019, Month.DECEMBER, 7);
 		VideoEvento v5 = new VideoEvento(nome_evento, data_evento, Sport.CALCIO);
 		System.out.println("bug fix");
-		
+		System.out.println("bug fix remoto");
 		gestionevideo.caricaVideo(v1);
 		gestionevideo.caricaVideo(v2);
 		gestionevideo.caricaVideo(v3);
