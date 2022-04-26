@@ -44,7 +44,7 @@ public class VideoMain {
  
 		v4.addGiornalista(new Giornalista("MODIFICALOCALE", "MODIFICAREMOTA"));
 		System.out.println("bug fix locale");
-		 
+		 		System.out.println("nuova funzion remota");
  
 		
 		nome_evento = "Partita Napoli-Udinese";
