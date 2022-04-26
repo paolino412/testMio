@@ -50,7 +50,7 @@ public class VideoMain {
 		nome_evento = "Partita Napoli-Udinese";
 		data_evento = LocalDate.of(2019, Month.DECEMBER, 7);
 		VideoEvento v5 = new VideoEvento(nome_evento, data_evento, Sport.CALCIO);
-		
+		System.out.println("nuova funzionalità");
 		
 		gestionevideo.caricaVideo(v1);
 		gestionevideo.caricaVideo(v2);
