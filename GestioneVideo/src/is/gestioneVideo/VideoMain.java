@@ -41,7 +41,7 @@ public class VideoMain {
 		VideoApprofondimento v4 = new VideoApprofondimento(nome_evento, data_evento, Sport.CALCIO);
 		
 		v4.addGiornalista(new Giornalista("TIZIO", "CAIO"));
-		v4.addGiornalista(new Giornalista("PIPPO", "PLUTO"));
+		v4.addGiornalista(new Giornalista("PIPPO", "MODIFICAREMOTA"));
 		
 		nome_evento = "Partita Napoli-Udinese";
 		data_evento = LocalDate.of(2019, Month.DECEMBER, 7);
