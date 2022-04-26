@@ -52,7 +52,7 @@ public class VideoMain {
 		VideoEvento v5 = new VideoEvento(nome_evento, data_evento, Sport.CALCIO);
  
 		System.out.println("bug fix");
- 
+		System.out.println("bug fix locale");
 		 
  
 		
