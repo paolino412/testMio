@@ -43,7 +43,7 @@ public class VideoMain {
 		v4.addGiornalista(new Giornalista("TIZIO", "CAIO"));
  
 		v4.addGiornalista(new Giornalista("MODIFICALOCALE", "MODIFICAREMOTA"));
- 
+		System.out.println("bug fix locale");
 		 
  
 		
@@ -53,9 +53,13 @@ public class VideoMain {
  
 		System.out.println("bug fix");
  
+ 
 		 
  
 		
+ 
+		System.out.println("bug fix remoto");
+ 
 		gestionevideo.caricaVideo(v1);
 		gestionevideo.caricaVideo(v2);
 		gestionevideo.caricaVideo(v3);
